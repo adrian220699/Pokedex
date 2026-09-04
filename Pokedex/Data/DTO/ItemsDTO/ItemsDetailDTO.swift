@@ -8,7 +8,7 @@
 struct ItemsDetailDTO : Decodable {
     
     let category : CategoryNameDTO
-    let cost : Int
+    let prices : [ItemPrice]
     let flavorTextEntries : [FlavorDescriptionDTO]?
     let name : String
     let sprites : SpriteItemsDTO?
@@ -16,7 +16,7 @@ struct ItemsDetailDTO : Decodable {
     
     enum CodingKeys: String, CodingKey {
         case category
-        case cost
+        case prices
         case flavorTextEntries = "flavor_text_entries"
         case name
         case sprites

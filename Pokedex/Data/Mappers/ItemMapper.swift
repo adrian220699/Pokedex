@@ -36,13 +36,15 @@ extension ItemsDetailDTO {
         
         let imgItem = sprites?.itemSprite ?? ""
         
+        let price = prices.first?.sellPrice ?? 0
+        
         return Item(
             id: id,
             name: name,
             description: descriptionItem,
             image: imgItem,
             category: category.name,
-            price: cost
+            price: price
         )
         
     }

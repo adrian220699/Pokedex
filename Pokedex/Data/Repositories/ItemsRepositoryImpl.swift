@@ -98,6 +98,8 @@ final class ItemsRepositoryImpl: ItemsRepository {
             )
 
         // 2. Arreglo que almacenará las entidades finales.
+        
+        
 
         var itemsList: [Item] = []
 

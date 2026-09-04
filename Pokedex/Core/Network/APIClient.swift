@@ -19,6 +19,8 @@ final class APIClient {
         type: T.Type
     ) async throws -> T {
         
+        
+        
         let (data, response) = try await URLSession.shared.data(from: url)
 
         guard let response = response as? HTTPURLResponse,
@@ -27,6 +29,7 @@ final class APIClient {
         }
         
         return try JSONDecoder().decode(T.self, from: data)
+        
     }
     
 }

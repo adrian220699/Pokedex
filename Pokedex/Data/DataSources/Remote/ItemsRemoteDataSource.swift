@@ -9,7 +9,7 @@ import Foundation
 
 struct ItemsRemoteDataSource {
     
-    //MARK: - Fetch Single Berry
+    //MARK: - Fetch Single Item
     
     func fetchItem(id : Int) async throws -> ItemsDetailDTO {
         
