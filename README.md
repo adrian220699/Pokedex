@@ -40,15 +40,20 @@ The project is structured using MVVM and Clean Architecture principles, with sep
 
 | Pokémon | Pokémon Detail |
 | --- | --- |
-| <img src="screenshots/pokemon-list.png" width="250"> | <img src="screenshots/pokemon-detail.png" width="250"> |
+| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/pokemon.png" width="250"> | <img src="screenshots/pokemon-detail.png" width="250"> |
 
-| Berries | Items |
+| Berries | Berries Detail |
 | --- | --- |
-| <img src="screenshots/berries.png" width="250"> | <img src="screenshots/items.png" width="250"> |
+| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/berries.png" width="250"> | <img src="screenshots/pokemon-detail.png" width="250"> |
+
+| Items | Items Detail |
+| --- | --- |
+| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/items.png" width="250"> | <img src="screenshots/pokemon-detail.png" width="250"> |
+
 
 | Regions | Region Pokémon |
 | --- | --- |
-| <img src="screenshots/regions.png" width="250"> | <img src="screenshots/region-pokemon.png" width="250"> |
+| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/regions.png" width="250"> | <img src="screenshots/region-pokemon.png" width="250"> |
 
 ## 🏗️ Architecture
 
