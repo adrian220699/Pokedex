@@ -40,20 +40,20 @@ The project is structured using MVVM and Clean Architecture principles, with sep
 
 | Pokémon | Pokémon Detail |
 | --- | --- |
-| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/pokemon.png" width="250"> | <img src="screenshots/pokemon-detail.png" width="250"> |
+| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/pokemon.png" width="250"> | <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/pokemonDetail.png" width="250"> |
 
 | Berries | Berries Detail |
 | --- | --- |
-| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/berries.png" width="250"> | <img src="screenshots/pokemon-detail.png" width="250"> |
+| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/berries.png" width="250"> | <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/berriesDetail.png" width="250"> |
 
 | Items | Items Detail |
 | --- | --- |
-| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/items.png" width="250"> | <img src="screenshots/pokemon-detail.png" width="250"> |
+| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/items.png" width="250"> | <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/itemsDetail.png" width="250"> |
 
 
 | Regions | Region Pokémon |
 | --- | --- |
-| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/regions.png" width="250"> | <img src="screenshots/region-pokemon.png" width="250"> |
+| <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/regions.png" width="250"> | <img src="https://github.com/adrian220699/Pokedex/blob/main/Screenshots/regionsDetail.png" width="250"> |
 
 ## 🏗️ Architecture
 
